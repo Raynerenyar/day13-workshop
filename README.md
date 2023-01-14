@@ -9,4 +9,4 @@
 ### Run spring boot app
 
 - For all OS. `dataDir` is required. `/opt/tmp/data` is the directory to save the data file.
-`mvn spring-boot:run -Dspring-boot.run.arguments=--dataDir=/opt/tmp/data`
+```mvn spring-boot:run -Dspring-boot.run.arguments=--dataDir=/opt/tmp/data```
