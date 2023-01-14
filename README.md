@@ -6,7 +6,7 @@
 - Endpoint `/contact/list` will list out hyperlinks of each contact that was saved
 
 
-# Run spring boot app
+### Run spring boot app
 
 - For all OS. `dataDir` is required. `/opt/tmp/data` is the directory to save the data file.
 `mvn spring-boot:run -Dspring-boot.run.arguments=--dataDir=/opt/tmp/data`
